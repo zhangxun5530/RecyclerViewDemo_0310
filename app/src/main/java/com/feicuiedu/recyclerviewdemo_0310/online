@@ -1,0 +1,4 @@
+今天：RecyclerView的使用
+1. 添加依赖：compile 'com.android.support:recyclerview-v7:25.1.1'
+2. 基本的使用：三种样式：ListView、GridLayout、瀑布流的效果
+    1. 布局中添加
